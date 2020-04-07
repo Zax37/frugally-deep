@@ -8,7 +8,7 @@
 
 #include "fdeep/layers/layer.hpp"
 #include "fdeep/recurrent_ops.hpp"
-#include <nlohmann/json.hpp>
+#include "../../json.hpp"
 
 #include <string>
 #include <functional>
